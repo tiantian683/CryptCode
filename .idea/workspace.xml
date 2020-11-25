@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="33a31c55-0cd2-4782-a3d8-d7a5622fe0da" name="Default Changelist" comment="" />
+    <list default="true" id="33a31c55-0cd2-4782-a3d8-d7a5622fe0da" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/base/base58.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/base64.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecc/ecdsa.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rsa/RSA.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/hash.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +23,11 @@
     </option>
   </component>
   <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1k5WoCwk90bOWIyPraknDDulqhd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -72,42 +84,50 @@
       <screen x="0" y="0" width="1455" height="864" />
     </state>
     <state x="802" y="75" key="#go_build_DesCode/0.0.1455.864@0.0.1455.864" timestamp="1605237207614" />
+    <state x="332" y="22" key="CommitChangelistDialog2" timestamp="1605593517912">
+      <screen x="0" y="0" width="1455" height="864" />
+    </state>
+    <state x="332" y="22" key="CommitChangelistDialog2/0.0.1455.864@0.0.1455.864" timestamp="1605593517912" />
     <state x="509" y="188" key="FileChooserDialogImpl" timestamp="1605237232083">
       <screen x="0" y="0" width="1455" height="864" />
     </state>
     <state x="509" y="188" key="FileChooserDialogImpl/0.0.1455.864@0.0.1455.864" timestamp="1605237232083" />
-    <state width="1413" height="219" key="GridCell.Tab.0.bottom" timestamp="1605254469096">
+    <state width="636" height="220" key="GridCell.Tab.0.bottom" timestamp="1605751337467">
       <screen x="0" y="0" width="1455" height="864" />
     </state>
-    <state width="1413" height="219" key="GridCell.Tab.0.bottom/0.0.1455.864@0.0.1455.864" timestamp="1605254469096" />
-    <state width="1413" height="219" key="GridCell.Tab.0.center" timestamp="1605254469096">
+    <state width="636" height="220" key="GridCell.Tab.0.bottom/0.0.1455.864@0.0.1455.864" timestamp="1605751337467" />
+    <state width="636" height="220" key="GridCell.Tab.0.center" timestamp="1605751337467">
       <screen x="0" y="0" width="1455" height="864" />
     </state>
-    <state width="1413" height="219" key="GridCell.Tab.0.center/0.0.1455.864@0.0.1455.864" timestamp="1605254469096" />
-    <state width="1413" height="219" key="GridCell.Tab.0.left" timestamp="1605254469096">
+    <state width="636" height="220" key="GridCell.Tab.0.center/0.0.1455.864@0.0.1455.864" timestamp="1605751337467" />
+    <state width="636" height="220" key="GridCell.Tab.0.left" timestamp="1605751337467">
       <screen x="0" y="0" width="1455" height="864" />
     </state>
-    <state width="1413" height="219" key="GridCell.Tab.0.left/0.0.1455.864@0.0.1455.864" timestamp="1605254469096" />
-    <state width="1413" height="219" key="GridCell.Tab.0.right" timestamp="1605254469096">
+    <state width="636" height="220" key="GridCell.Tab.0.left/0.0.1455.864@0.0.1455.864" timestamp="1605751337467" />
+    <state width="636" height="220" key="GridCell.Tab.0.right" timestamp="1605751337467">
       <screen x="0" y="0" width="1455" height="864" />
     </state>
-    <state width="1413" height="219" key="GridCell.Tab.0.right/0.0.1455.864@0.0.1455.864" timestamp="1605254469096" />
+    <state width="636" height="220" key="GridCell.Tab.0.right/0.0.1455.864@0.0.1455.864" timestamp="1605751337467" />
     <state x="459" y="116" key="SettingsEditor" timestamp="1605143076296">
       <screen x="0" y="0" width="1455" height="864" />
     </state>
     <state x="459" y="116" key="SettingsEditor/0.0.1455.864@0.0.1455.864" timestamp="1605143076296" />
-    <state x="14" y="4" width="667" height="842" key="dock-window-1" timestamp="1605250083487">
+    <state x="-7" y="0" width="748" height="594" key="dock-window-1" timestamp="1605765881247">
       <screen x="0" y="0" width="1455" height="864" />
     </state>
-    <state x="14" y="4" width="667" height="842" key="dock-window-1/0.0.1455.864@0.0.1455.864" timestamp="1605250083487" />
+    <state x="-7" y="0" width="748" height="594" key="dock-window-1/0.0.1455.864@0.0.1455.864" timestamp="1605765881247" />
     <state x="40" y="49" width="667" height="595" key="dock-window-2" timestamp="1605252912360">
       <screen x="0" y="0" width="1455" height="864" />
     </state>
     <state x="40" y="49" width="667" height="595" key="dock-window-2/0.0.1455.864@0.0.1455.864" timestamp="1605252912360" />
-    <state x="931" y="186" width="672" height="678" key="search.everywhere.popup" timestamp="1605236278010">
+    <state x="835" y="59" key="refactoring.ChangeSignatureDialog" timestamp="1605666673514">
       <screen x="0" y="0" width="1455" height="864" />
     </state>
-    <state x="931" y="186" width="672" height="678" key="search.everywhere.popup/0.0.1455.864@0.0.1455.864" timestamp="1605236278010" />
+    <state x="835" y="59" key="refactoring.ChangeSignatureDialog/0.0.1455.864@0.0.1455.864" timestamp="1605666673514" />
+    <state x="931" y="186" width="672" height="678" key="search.everywhere.popup" timestamp="1605577448337">
+      <screen x="0" y="0" width="1455" height="864" />
+    </state>
+    <state x="931" y="186" width="672" height="678" key="search.everywhere.popup/0.0.1455.864@0.0.1455.864" timestamp="1605577448337" />
     <state x="70" y="337" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1605249461181">
       <screen x="0" y="0" width="1455" height="864" />
     </state>
@@ -128,7 +148,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/main.go</url>
-          <line>100</line>
+          <line>101</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
